@@ -1,2 +1,3 @@
 # java-script
-my first git repository
+ This is my first git repository. 
+ Author:TOOBA SHAHAB
